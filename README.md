@@ -7,6 +7,6 @@
         <li>Delete the item if it's invalid or not needed</li>
     </ul>
 
-**I created this app with ejs, css, js, node, express, and pushed it to heroku.**
+***I created this app with ejs, css, js, node, express, and pushed it to heroku.***
 
 <img src="https://imgur.com/VbnwF8C.jpg" width="400px" alt="meme of elderly woman lifting her glasses and asking 'how do I cross out my todos'">
