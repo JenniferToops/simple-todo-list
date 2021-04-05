@@ -1,4 +1,4 @@
-<h1 style="color: blue; font-weight: bold; text-shadow: 1px 1px black">Simple Todo List</h1>
+<h1 style="font-weight: bold">Simple Todo List</h1>
 
 <h2 style="font-weight: bold">This is a super-simple todo list that allows the user to do the following:</h2> 
     <ul>

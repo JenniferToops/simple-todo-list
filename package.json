@@ -1,0 +1,29 @@
+{
+  "name": "simple-todo-list",
+  "version": "1.0.0",
+  "description": "<h1 style=\"font-weight: bold\">Simple Todo List</h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferToops/simple-todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferToops/simple-todo-list/issues"
+  },
+  "homepage": "https://github.com/JenniferToops/simple-todo-list#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
